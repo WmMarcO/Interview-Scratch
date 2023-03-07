@@ -1,3 +1,7 @@
+
+UPDATED
+Updated to work for demo purposes.  Needed quite a bit of troubleshooting.  Needed to update requirements.  Needed to get access token in to profile template to meet requirements.  Secrets redacted.  Works!
+
 # Flask + Okta Hosted Login Example
 
 This example shows you how to use Flask to login to your application with a Custom Login page.  The login is achieved with the [Okta Sign In Widget][], which gives you more control to customize the login experience within your app.  After the user authenticates they are redirected back to the application with an authorization code that is then exchanged for an access token.
@@ -63,5 +67,3 @@ You can login with the same account that you created when signing up for your De
 
 
 
-UPDATED
-Updated to work for demo purposes.  Needed quite a bit of troubleshooting.  Needed to update requirements.  Needed to get access token in to profile template to meet requirements.  Secrets redacted.  Works!
