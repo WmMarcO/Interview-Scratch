@@ -60,3 +60,8 @@ You can login with the same account that you created when signing up for your De
 
 [Okta Sign In Widget]: https://github.com/okta/okta-signin-widget
 [OIDC WEB Setup Instructions]: https://developer.okta.com/authentication-guide/implementing-authentication/auth-code#1-setting-up-your-application
+
+
+
+UPDATED
+Updated to work for demo purposes.  Needed quite a bit of troubleshooting.  Needed to update requirements.  Needed to get access token in to profile template to meet requirements.  Secrets redacted.  Works!
